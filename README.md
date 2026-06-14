@@ -136,10 +136,6 @@ A crew of specialized agents, each with its own role, model, and persistent memo
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangterter-Pipo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="top langs"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thangterter-Pipo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-
 </div>
 
 ---
