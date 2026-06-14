@@ -125,6 +125,21 @@ A crew of specialized agents, each with its own role, model, and persistent memo
 
 ---
 
+### 📦 featured project
+
+<div align="center">
+
+<a href="https://github.com/Thangterter-Pipo/kiro-9router-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thangterter-Pipo&repo=kiro-9router-manager&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="kiro-9router-manager"/>
+</a>
+
+</div>
+
+**🚀 Kiro 9router Manager** — a 5-tab dark-theme desktop GUI (Python + Tkinter) to manage & log in Kiro accounts into 9router + Kiro IDE.
+Batch login, **device-flow OIDC** (no password / no MFA), JSON token import, AWS SSO cache integration, packaged to `.exe` with PyInstaller.
+
+---
+
 ### 📊 github stats
 
 <div align="center">
